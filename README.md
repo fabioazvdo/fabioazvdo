@@ -8,13 +8,6 @@
 
 Eu sou um desenvolvedor backend especializado em Java, com uma forte paixão por criar aplicações escaláveis e de alta performance. Tenho experiência em diversas tecnologias e frameworks do ecossistema Java, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
-- 🌱 Atualmente estou aprendendo **Spring Boot** e **Microservices**.
-- 💬 Pergunte-me sobre **Java**, **Spring**, **Hibernate**, **REST APIs** e **Docker**.
-- 📫 Como me encontrar: [fabio.carvalho@cs.unipe.edu.br](mailto:fabio.carvalho@cs.unipe.edu.br).
-- ⚡ Curiosidade: Nas horas vagas, gosto de explorar novas tecnologias.
-
-## Habilidades
-
 ### Linguagens de Programação
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
