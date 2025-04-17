@@ -24,14 +24,6 @@ Eu sou um desenvolvedor backend especializado em Java, com uma forte paixão por
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Projetos Destacados
-
-### [Microservices Example](https://github.com/fabioazvdo/microservices-example)
-Um exemplo de aplicação de microserviços usando Spring Boot, Spring Cloud e Docker.
-
-### [REST API Template](https://github.com/fabioazvdo/spring-boot-rest-api-template)
-Um template para criar APIs RESTful com Spring Boot, incluindo autenticação JWT, documentação Swagger e testes automatizados.
-
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub do Fabio](https://github-readme-stats.vercel.app/api?username=fabioazvdo&show_icons=true&theme=radical)
